@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=BackEndJavaProject/src&lt;chapter02{UserInterface.java[UserInterface" modifiers="513" timestamp="1633663156223"/>
+    <typeInfo handle="=Spring_Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bbs.service{UsersService.java[UsersService" modifiers="513" timestamp="1637897525710"/>
+    <typeInfo handle="=Spring_Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bbs.dao{UsersDAO.java[UsersDAO" modifiers="513" timestamp="1637897276831"/>
+    <typeInfo handle="=Spring_Project/C:\/Users\/ITPS\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.13.v20211116-1829\/jre\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.nio.file.attribute(UserDefinedFileAttributeView.class[UserDefinedFileAttributeView" modifiers="1537" timestamp="1637055104000"/>
+    <typeInfo handle="=Spring_Project/C:\/Users\/ITPS\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.13.v20211116-1829\/jre\/lib\/jrt-fs.jar`java.xml=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;org.w3c.dom(UserDataHandler.class[UserDataHandler" modifiers="1537" timestamp="1637055104000"/>
+    <typeInfo handle="=Spring_Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bbs.dao{BbsDAO.java[BbsDAO" modifiers="513" timestamp="1638408766619"/>
+    <typeInfo handle="=Spring_Project/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bbs.service{BbsService.java[BbsService" modifiers="513" timestamp="1638409150950"/>
+</typeInfoHistroy>

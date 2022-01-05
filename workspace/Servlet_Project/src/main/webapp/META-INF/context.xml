@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- jsp, servlet 사용시만 context 파일로 접속 구문 대체 가능// spring은 다르다. -->
+<!-- 구문이 뭔지만 알아두면 된다. -->
+<context>		<!-- 이름 마음대로 -->
+	<Resource name="jdbc/oracle"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="oracle.jdbc.driver.OracleDriver"
+		factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory"
+		url="jdbc:oracle:thin:@127.0.0.1:1521:xe"
+		username="dba_user"
+		password="1234"
+		maxActive="100"
+		maxIdle="20" />
+</context>
+<!-- context가 로드와 동시에 DB 접속하는 것을 자동으로 해준다. -->
